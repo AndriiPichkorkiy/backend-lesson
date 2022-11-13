@@ -1,0 +1,30 @@
+{
+  "name": "backend-lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriiPichkorkiy/backend-lesson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndriiPichkorkiy/backend-lesson/issues"
+  },
+  "homepage": "https://github.com/AndriiPichkorkiy/backend-lesson#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2",
+    "nodejs": "^0.0.0",
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.5.3"
+  }
+}
